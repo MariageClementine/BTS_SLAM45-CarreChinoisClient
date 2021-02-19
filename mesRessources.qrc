@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="blanc">images/pion marbre.png</file>
+        <file alias="okblanc">images/pion marbre vert.png</file>
+        <file alias="noir">images/pion ebene.png</file>
+        <file alias="poknoir">images/pion ebene rouge.png</file>
+        <file alias="oknoir">images/pion ebene vert.png</file>
+        <file alias="pokblanc">images/pion marbre rouge.png</file>
+        <file alias="vide">images/vide.png</file>
+    </qresource>
+</RCC>
